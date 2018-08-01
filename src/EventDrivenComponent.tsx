@@ -20,3 +20,5 @@ class EventDrivenComponent extends React.Component {
         );
     }
 }
+
+export default EventDrivenComponent;
